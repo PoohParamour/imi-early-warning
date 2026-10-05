@@ -5,8 +5,6 @@ __pycache__/
 .ipynb_checkpoints/
 
 # Raw and derived datasets can be large or regenerated.
-data/raw/*
-!data/raw/sources.json
 data/interim/*
 !data/interim/.gitkeep
 data/processed/*
@@ -14,3 +12,9 @@ data/processed/*
 
 # Local review evidence and rerun artifacts.
 reports/review/
+scripts/review_*.py
+scripts/review_*.R
+reports/study_guide.md
+reports/report_draft.md
+reports/presentation_outline.md
+PROJECT_SCOPE.md

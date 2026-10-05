@@ -1,0 +1,4162 @@
+[
+  {
+    "sequence": 1,
+    "body": {
+      "yearBase": 2566,
+      "year": 2543,
+      "month": 1,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 0
+  },
+  {
+    "sequence": 2,
+    "body": {
+      "yearBase": 2566,
+      "year": 2543,
+      "month": 2,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 0
+  },
+  {
+    "sequence": 3,
+    "body": {
+      "yearBase": 2566,
+      "year": 2543,
+      "month": 3,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 0
+  },
+  {
+    "sequence": 4,
+    "body": {
+      "yearBase": 2566,
+      "year": 2543,
+      "month": 4,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 0
+  },
+  {
+    "sequence": 5,
+    "body": {
+      "yearBase": 2566,
+      "year": 2543,
+      "month": 5,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 0
+  },
+  {
+    "sequence": 6,
+    "body": {
+      "yearBase": 2566,
+      "year": 2543,
+      "month": 6,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 0
+  },
+  {
+    "sequence": 7,
+    "body": {
+      "yearBase": 2566,
+      "year": 2543,
+      "month": 7,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 0
+  },
+  {
+    "sequence": 8,
+    "body": {
+      "yearBase": 2566,
+      "year": 2543,
+      "month": 8,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 0
+  },
+  {
+    "sequence": 9,
+    "body": {
+      "yearBase": 2566,
+      "year": 2543,
+      "month": 9,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 0
+  },
+  {
+    "sequence": 10,
+    "body": {
+      "yearBase": 2566,
+      "year": 2543,
+      "month": 10,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 0
+  },
+  {
+    "sequence": 11,
+    "body": {
+      "yearBase": 2566,
+      "year": 2543,
+      "month": 11,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 0
+  },
+  {
+    "sequence": 12,
+    "body": {
+      "yearBase": 2566,
+      "year": 2543,
+      "month": 12,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 0
+  },
+  {
+    "sequence": 13,
+    "body": {
+      "yearBase": 2566,
+      "year": 2544,
+      "month": 1,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 0
+  },
+  {
+    "sequence": 14,
+    "body": {
+      "yearBase": 2566,
+      "year": 2544,
+      "month": 2,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 0
+  },
+  {
+    "sequence": 15,
+    "body": {
+      "yearBase": 2566,
+      "year": 2544,
+      "month": 3,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 0
+  },
+  {
+    "sequence": 16,
+    "body": {
+      "yearBase": 2566,
+      "year": 2544,
+      "month": 4,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 0
+  },
+  {
+    "sequence": 17,
+    "body": {
+      "yearBase": 2566,
+      "year": 2544,
+      "month": 5,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 0
+  },
+  {
+    "sequence": 18,
+    "body": {
+      "yearBase": 2566,
+      "year": 2544,
+      "month": 6,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 0
+  },
+  {
+    "sequence": 19,
+    "body": {
+      "yearBase": 2566,
+      "year": 2544,
+      "month": 7,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 0
+  },
+  {
+    "sequence": 20,
+    "body": {
+      "yearBase": 2566,
+      "year": 2544,
+      "month": 8,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 0
+  },
+  {
+    "sequence": 21,
+    "body": {
+      "yearBase": 2566,
+      "year": 2544,
+      "month": 9,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 0
+  },
+  {
+    "sequence": 22,
+    "body": {
+      "yearBase": 2566,
+      "year": 2544,
+      "month": 10,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 0
+  },
+  {
+    "sequence": 23,
+    "body": {
+      "yearBase": 2566,
+      "year": 2544,
+      "month": 11,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 0
+  },
+  {
+    "sequence": 24,
+    "body": {
+      "yearBase": 2566,
+      "year": 2544,
+      "month": 12,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 25,
+    "body": {
+      "yearBase": 2566,
+      "year": 2545,
+      "month": 1,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 26,
+    "body": {
+      "yearBase": 2566,
+      "year": 2545,
+      "month": 2,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 27,
+    "body": {
+      "yearBase": 2566,
+      "year": 2545,
+      "month": 3,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 28,
+    "body": {
+      "yearBase": 2566,
+      "year": 2545,
+      "month": 4,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 29,
+    "body": {
+      "yearBase": 2566,
+      "year": 2545,
+      "month": 5,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 30,
+    "body": {
+      "yearBase": 2566,
+      "year": 2545,
+      "month": 6,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 31,
+    "body": {
+      "yearBase": 2566,
+      "year": 2545,
+      "month": 7,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 32,
+    "body": {
+      "yearBase": 2566,
+      "year": 2545,
+      "month": 8,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 33,
+    "body": {
+      "yearBase": 2566,
+      "year": 2545,
+      "month": 9,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 34,
+    "body": {
+      "yearBase": 2566,
+      "year": 2545,
+      "month": 10,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 35,
+    "body": {
+      "yearBase": 2566,
+      "year": 2545,
+      "month": 11,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 36,
+    "body": {
+      "yearBase": 2566,
+      "year": 2545,
+      "month": 12,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 37,
+    "body": {
+      "yearBase": 2566,
+      "year": 2546,
+      "month": 1,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 38,
+    "body": {
+      "yearBase": 2566,
+      "year": 2546,
+      "month": 2,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 39,
+    "body": {
+      "yearBase": 2566,
+      "year": 2546,
+      "month": 3,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 40,
+    "body": {
+      "yearBase": 2566,
+      "year": 2546,
+      "month": 4,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 41,
+    "body": {
+      "yearBase": 2566,
+      "year": 2546,
+      "month": 5,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 42,
+    "body": {
+      "yearBase": 2566,
+      "year": 2546,
+      "month": 6,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 43,
+    "body": {
+      "yearBase": 2566,
+      "year": 2546,
+      "month": 7,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 44,
+    "body": {
+      "yearBase": 2566,
+      "year": 2546,
+      "month": 8,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 45,
+    "body": {
+      "yearBase": 2566,
+      "year": 2546,
+      "month": 9,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 46,
+    "body": {
+      "yearBase": 2566,
+      "year": 2546,
+      "month": 10,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 47,
+    "body": {
+      "yearBase": 2566,
+      "year": 2546,
+      "month": 11,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 48,
+    "body": {
+      "yearBase": 2566,
+      "year": 2546,
+      "month": 12,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 49,
+    "body": {
+      "yearBase": 2566,
+      "year": 2547,
+      "month": 1,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 50,
+    "body": {
+      "yearBase": 2566,
+      "year": 2547,
+      "month": 2,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 51,
+    "body": {
+      "yearBase": 2566,
+      "year": 2547,
+      "month": 3,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 52,
+    "body": {
+      "yearBase": 2566,
+      "year": 2547,
+      "month": 4,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 53,
+    "body": {
+      "yearBase": 2566,
+      "year": 2547,
+      "month": 5,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 54,
+    "body": {
+      "yearBase": 2566,
+      "year": 2547,
+      "month": 6,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 55,
+    "body": {
+      "yearBase": 2566,
+      "year": 2547,
+      "month": 7,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 56,
+    "body": {
+      "yearBase": 2566,
+      "year": 2547,
+      "month": 8,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 57,
+    "body": {
+      "yearBase": 2566,
+      "year": 2547,
+      "month": 9,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 58,
+    "body": {
+      "yearBase": 2566,
+      "year": 2547,
+      "month": 10,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 59,
+    "body": {
+      "yearBase": 2566,
+      "year": 2547,
+      "month": 11,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 60,
+    "body": {
+      "yearBase": 2566,
+      "year": 2547,
+      "month": 12,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 61,
+    "body": {
+      "yearBase": 2566,
+      "year": 2548,
+      "month": 1,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 62,
+    "body": {
+      "yearBase": 2566,
+      "year": 2548,
+      "month": 2,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 63,
+    "body": {
+      "yearBase": 2566,
+      "year": 2548,
+      "month": 3,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 64,
+    "body": {
+      "yearBase": 2566,
+      "year": 2548,
+      "month": 4,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 65,
+    "body": {
+      "yearBase": 2566,
+      "year": 2548,
+      "month": 5,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 66,
+    "body": {
+      "yearBase": 2566,
+      "year": 2548,
+      "month": 6,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 67,
+    "body": {
+      "yearBase": 2566,
+      "year": 2548,
+      "month": 7,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 68,
+    "body": {
+      "yearBase": 2566,
+      "year": 2548,
+      "month": 8,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 69,
+    "body": {
+      "yearBase": 2566,
+      "year": 2548,
+      "month": 9,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 70,
+    "body": {
+      "yearBase": 2566,
+      "year": 2548,
+      "month": 10,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 71,
+    "body": {
+      "yearBase": 2566,
+      "year": 2548,
+      "month": 11,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 72,
+    "body": {
+      "yearBase": 2566,
+      "year": 2548,
+      "month": 12,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 73,
+    "body": {
+      "yearBase": 2566,
+      "year": 2549,
+      "month": 1,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 74,
+    "body": {
+      "yearBase": 2566,
+      "year": 2549,
+      "month": 2,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 75,
+    "body": {
+      "yearBase": 2566,
+      "year": 2549,
+      "month": 3,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 76,
+    "body": {
+      "yearBase": 2566,
+      "year": 2549,
+      "month": 4,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 77,
+    "body": {
+      "yearBase": 2566,
+      "year": 2549,
+      "month": 5,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 78,
+    "body": {
+      "yearBase": 2566,
+      "year": 2549,
+      "month": 6,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 79,
+    "body": {
+      "yearBase": 2566,
+      "year": 2549,
+      "month": 7,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 80,
+    "body": {
+      "yearBase": 2566,
+      "year": 2549,
+      "month": 8,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 81,
+    "body": {
+      "yearBase": 2566,
+      "year": 2549,
+      "month": 9,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 82,
+    "body": {
+      "yearBase": 2566,
+      "year": 2549,
+      "month": 10,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 83,
+    "body": {
+      "yearBase": 2566,
+      "year": 2549,
+      "month": 11,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 84,
+    "body": {
+      "yearBase": 2566,
+      "year": 2549,
+      "month": 12,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 85,
+    "body": {
+      "yearBase": 2566,
+      "year": 2550,
+      "month": 1,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 86,
+    "body": {
+      "yearBase": 2566,
+      "year": 2550,
+      "month": 2,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 87,
+    "body": {
+      "yearBase": 2566,
+      "year": 2550,
+      "month": 3,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 88,
+    "body": {
+      "yearBase": 2566,
+      "year": 2550,
+      "month": 4,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 89,
+    "body": {
+      "yearBase": 2566,
+      "year": 2550,
+      "month": 5,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 90,
+    "body": {
+      "yearBase": 2566,
+      "year": 2550,
+      "month": 6,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 91,
+    "body": {
+      "yearBase": 2566,
+      "year": 2550,
+      "month": 7,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 92,
+    "body": {
+      "yearBase": 2566,
+      "year": 2550,
+      "month": 8,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 93,
+    "body": {
+      "yearBase": 2566,
+      "year": 2550,
+      "month": 9,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 94,
+    "body": {
+      "yearBase": 2566,
+      "year": 2550,
+      "month": 10,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 95,
+    "body": {
+      "yearBase": 2566,
+      "year": 2550,
+      "month": 11,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 96,
+    "body": {
+      "yearBase": 2566,
+      "year": 2550,
+      "month": 12,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 97,
+    "body": {
+      "yearBase": 2566,
+      "year": 2551,
+      "month": 1,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 98,
+    "body": {
+      "yearBase": 2566,
+      "year": 2551,
+      "month": 2,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 99,
+    "body": {
+      "yearBase": 2566,
+      "year": 2551,
+      "month": 3,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 100,
+    "body": {
+      "yearBase": 2566,
+      "year": 2551,
+      "month": 4,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 101,
+    "body": {
+      "yearBase": 2566,
+      "year": 2551,
+      "month": 5,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 102,
+    "body": {
+      "yearBase": 2566,
+      "year": 2551,
+      "month": 6,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 103,
+    "body": {
+      "yearBase": 2566,
+      "year": 2551,
+      "month": 7,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 104,
+    "body": {
+      "yearBase": 2566,
+      "year": 2551,
+      "month": 8,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 105,
+    "body": {
+      "yearBase": 2566,
+      "year": 2551,
+      "month": 9,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 106,
+    "body": {
+      "yearBase": 2566,
+      "year": 2551,
+      "month": 10,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 107,
+    "body": {
+      "yearBase": 2566,
+      "year": 2551,
+      "month": 11,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 108,
+    "body": {
+      "yearBase": 2566,
+      "year": 2551,
+      "month": 12,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 109,
+    "body": {
+      "yearBase": 2566,
+      "year": 2552,
+      "month": 1,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 110,
+    "body": {
+      "yearBase": 2566,
+      "year": 2552,
+      "month": 2,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 111,
+    "body": {
+      "yearBase": 2566,
+      "year": 2552,
+      "month": 3,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 112,
+    "body": {
+      "yearBase": 2566,
+      "year": 2552,
+      "month": 4,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 113,
+    "body": {
+      "yearBase": 2566,
+      "year": 2552,
+      "month": 5,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 114,
+    "body": {
+      "yearBase": 2566,
+      "year": 2552,
+      "month": 6,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 115,
+    "body": {
+      "yearBase": 2566,
+      "year": 2552,
+      "month": 7,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 116,
+    "body": {
+      "yearBase": 2566,
+      "year": 2552,
+      "month": 8,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 117,
+    "body": {
+      "yearBase": 2566,
+      "year": 2552,
+      "month": 9,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 118,
+    "body": {
+      "yearBase": 2566,
+      "year": 2552,
+      "month": 10,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 119,
+    "body": {
+      "yearBase": 2566,
+      "year": 2552,
+      "month": 11,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 120,
+    "body": {
+      "yearBase": 2566,
+      "year": 2552,
+      "month": 12,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 121,
+    "body": {
+      "yearBase": 2566,
+      "year": 2553,
+      "month": 1,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 122,
+    "body": {
+      "yearBase": 2566,
+      "year": 2553,
+      "month": 2,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 123,
+    "body": {
+      "yearBase": 2566,
+      "year": 2553,
+      "month": 3,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 124,
+    "body": {
+      "yearBase": 2566,
+      "year": 2553,
+      "month": 4,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 125,
+    "body": {
+      "yearBase": 2566,
+      "year": 2553,
+      "month": 5,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 126,
+    "body": {
+      "yearBase": 2566,
+      "year": 2553,
+      "month": 6,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 127,
+    "body": {
+      "yearBase": 2566,
+      "year": 2553,
+      "month": 7,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 128,
+    "body": {
+      "yearBase": 2566,
+      "year": 2553,
+      "month": 8,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 129,
+    "body": {
+      "yearBase": 2566,
+      "year": 2553,
+      "month": 9,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 130,
+    "body": {
+      "yearBase": 2566,
+      "year": 2553,
+      "month": 10,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 131,
+    "body": {
+      "yearBase": 2566,
+      "year": 2553,
+      "month": 11,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 132,
+    "body": {
+      "yearBase": 2566,
+      "year": 2553,
+      "month": 12,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 133,
+    "body": {
+      "yearBase": 2566,
+      "year": 2554,
+      "month": 1,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 134,
+    "body": {
+      "yearBase": 2566,
+      "year": 2554,
+      "month": 2,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 135,
+    "body": {
+      "yearBase": 2566,
+      "year": 2554,
+      "month": 3,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 136,
+    "body": {
+      "yearBase": 2566,
+      "year": 2554,
+      "month": 4,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 137,
+    "body": {
+      "yearBase": 2566,
+      "year": 2554,
+      "month": 5,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 138,
+    "body": {
+      "yearBase": 2566,
+      "year": 2554,
+      "month": 6,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 139,
+    "body": {
+      "yearBase": 2566,
+      "year": 2554,
+      "month": 7,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 140,
+    "body": {
+      "yearBase": 2566,
+      "year": 2554,
+      "month": 8,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 141,
+    "body": {
+      "yearBase": 2566,
+      "year": 2554,
+      "month": 9,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 142,
+    "body": {
+      "yearBase": 2566,
+      "year": 2554,
+      "month": 10,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 143,
+    "body": {
+      "yearBase": 2566,
+      "year": 2554,
+      "month": 11,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 144,
+    "body": {
+      "yearBase": 2566,
+      "year": 2554,
+      "month": 12,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 145,
+    "body": {
+      "yearBase": 2566,
+      "year": 2555,
+      "month": 1,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 146,
+    "body": {
+      "yearBase": 2566,
+      "year": 2555,
+      "month": 2,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 147,
+    "body": {
+      "yearBase": 2566,
+      "year": 2555,
+      "month": 3,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 148,
+    "body": {
+      "yearBase": 2566,
+      "year": 2555,
+      "month": 4,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 149,
+    "body": {
+      "yearBase": 2566,
+      "year": 2555,
+      "month": 5,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 150,
+    "body": {
+      "yearBase": 2566,
+      "year": 2555,
+      "month": 6,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 151,
+    "body": {
+      "yearBase": 2566,
+      "year": 2555,
+      "month": 7,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 152,
+    "body": {
+      "yearBase": 2566,
+      "year": 2555,
+      "month": 8,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 153,
+    "body": {
+      "yearBase": 2566,
+      "year": 2555,
+      "month": 9,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 154,
+    "body": {
+      "yearBase": 2566,
+      "year": 2555,
+      "month": 10,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 155,
+    "body": {
+      "yearBase": 2566,
+      "year": 2555,
+      "month": 11,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 156,
+    "body": {
+      "yearBase": 2566,
+      "year": 2555,
+      "month": 12,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 157,
+    "body": {
+      "yearBase": 2566,
+      "year": 2556,
+      "month": 1,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 158,
+    "body": {
+      "yearBase": 2566,
+      "year": 2556,
+      "month": 2,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 159,
+    "body": {
+      "yearBase": 2566,
+      "year": 2556,
+      "month": 3,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 160,
+    "body": {
+      "yearBase": 2566,
+      "year": 2556,
+      "month": 4,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 161,
+    "body": {
+      "yearBase": 2566,
+      "year": 2556,
+      "month": 5,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 162,
+    "body": {
+      "yearBase": 2566,
+      "year": 2556,
+      "month": 6,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 163,
+    "body": {
+      "yearBase": 2566,
+      "year": 2556,
+      "month": 7,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 164,
+    "body": {
+      "yearBase": 2566,
+      "year": 2556,
+      "month": 8,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 165,
+    "body": {
+      "yearBase": 2566,
+      "year": 2556,
+      "month": 9,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 166,
+    "body": {
+      "yearBase": 2566,
+      "year": 2556,
+      "month": 10,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 167,
+    "body": {
+      "yearBase": 2566,
+      "year": 2556,
+      "month": 11,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 168,
+    "body": {
+      "yearBase": 2566,
+      "year": 2556,
+      "month": 12,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 169,
+    "body": {
+      "yearBase": 2566,
+      "year": 2557,
+      "month": 1,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 170,
+    "body": {
+      "yearBase": 2566,
+      "year": 2557,
+      "month": 2,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 171,
+    "body": {
+      "yearBase": 2566,
+      "year": 2557,
+      "month": 3,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 172,
+    "body": {
+      "yearBase": 2566,
+      "year": 2557,
+      "month": 4,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 173,
+    "body": {
+      "yearBase": 2566,
+      "year": 2557,
+      "month": 5,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 174,
+    "body": {
+      "yearBase": 2566,
+      "year": 2557,
+      "month": 6,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 175,
+    "body": {
+      "yearBase": 2566,
+      "year": 2557,
+      "month": 7,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 176,
+    "body": {
+      "yearBase": 2566,
+      "year": 2557,
+      "month": 8,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 177,
+    "body": {
+      "yearBase": 2566,
+      "year": 2557,
+      "month": 9,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 178,
+    "body": {
+      "yearBase": 2566,
+      "year": 2557,
+      "month": 10,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 179,
+    "body": {
+      "yearBase": 2566,
+      "year": 2557,
+      "month": 11,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 180,
+    "body": {
+      "yearBase": 2566,
+      "year": 2557,
+      "month": 12,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 181,
+    "body": {
+      "yearBase": 2566,
+      "year": 2558,
+      "month": 1,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 182,
+    "body": {
+      "yearBase": 2566,
+      "year": 2558,
+      "month": 2,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 183,
+    "body": {
+      "yearBase": 2566,
+      "year": 2558,
+      "month": 3,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 184,
+    "body": {
+      "yearBase": 2566,
+      "year": 2558,
+      "month": 4,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 185,
+    "body": {
+      "yearBase": 2566,
+      "year": 2558,
+      "month": 5,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 186,
+    "body": {
+      "yearBase": 2566,
+      "year": 2558,
+      "month": 6,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 187,
+    "body": {
+      "yearBase": 2566,
+      "year": 2558,
+      "month": 7,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 188,
+    "body": {
+      "yearBase": 2566,
+      "year": 2558,
+      "month": 8,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 189,
+    "body": {
+      "yearBase": 2566,
+      "year": 2558,
+      "month": 9,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 190,
+    "body": {
+      "yearBase": 2566,
+      "year": 2558,
+      "month": 10,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 191,
+    "body": {
+      "yearBase": 2566,
+      "year": 2558,
+      "month": 11,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 192,
+    "body": {
+      "yearBase": 2566,
+      "year": 2558,
+      "month": 12,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 193,
+    "body": {
+      "yearBase": 2566,
+      "year": 2559,
+      "month": 1,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 194,
+    "body": {
+      "yearBase": 2566,
+      "year": 2559,
+      "month": 2,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 195,
+    "body": {
+      "yearBase": 2566,
+      "year": 2559,
+      "month": 3,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 196,
+    "body": {
+      "yearBase": 2566,
+      "year": 2559,
+      "month": 4,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 197,
+    "body": {
+      "yearBase": 2566,
+      "year": 2559,
+      "month": 5,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 198,
+    "body": {
+      "yearBase": 2566,
+      "year": 2559,
+      "month": 6,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 199,
+    "body": {
+      "yearBase": 2566,
+      "year": 2559,
+      "month": 7,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 200,
+    "body": {
+      "yearBase": 2566,
+      "year": 2559,
+      "month": 8,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 201,
+    "body": {
+      "yearBase": 2566,
+      "year": 2559,
+      "month": 9,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 202,
+    "body": {
+      "yearBase": 2566,
+      "year": 2559,
+      "month": 10,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 203,
+    "body": {
+      "yearBase": 2566,
+      "year": 2559,
+      "month": 11,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 204,
+    "body": {
+      "yearBase": 2566,
+      "year": 2559,
+      "month": 12,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 205,
+    "body": {
+      "yearBase": 2566,
+      "year": 2560,
+      "month": 1,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 206,
+    "body": {
+      "yearBase": 2566,
+      "year": 2560,
+      "month": 2,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 207,
+    "body": {
+      "yearBase": 2566,
+      "year": 2560,
+      "month": 3,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 208,
+    "body": {
+      "yearBase": 2566,
+      "year": 2560,
+      "month": 4,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 209,
+    "body": {
+      "yearBase": 2566,
+      "year": 2560,
+      "month": 5,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 210,
+    "body": {
+      "yearBase": 2566,
+      "year": 2560,
+      "month": 6,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 211,
+    "body": {
+      "yearBase": 2566,
+      "year": 2560,
+      "month": 7,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 212,
+    "body": {
+      "yearBase": 2566,
+      "year": 2560,
+      "month": 8,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 213,
+    "body": {
+      "yearBase": 2566,
+      "year": 2560,
+      "month": 9,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 214,
+    "body": {
+      "yearBase": 2566,
+      "year": 2560,
+      "month": 10,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 215,
+    "body": {
+      "yearBase": 2566,
+      "year": 2560,
+      "month": 11,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 216,
+    "body": {
+      "yearBase": 2566,
+      "year": 2560,
+      "month": 12,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 217,
+    "body": {
+      "yearBase": 2566,
+      "year": 2561,
+      "month": 1,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 218,
+    "body": {
+      "yearBase": 2566,
+      "year": 2561,
+      "month": 2,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 219,
+    "body": {
+      "yearBase": 2566,
+      "year": 2561,
+      "month": 3,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 220,
+    "body": {
+      "yearBase": 2566,
+      "year": 2561,
+      "month": 4,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 221,
+    "body": {
+      "yearBase": 2566,
+      "year": 2561,
+      "month": 5,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 222,
+    "body": {
+      "yearBase": 2566,
+      "year": 2561,
+      "month": 6,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 223,
+    "body": {
+      "yearBase": 2566,
+      "year": 2561,
+      "month": 7,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 224,
+    "body": {
+      "yearBase": 2566,
+      "year": 2561,
+      "month": 8,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 225,
+    "body": {
+      "yearBase": 2566,
+      "year": 2561,
+      "month": 9,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 226,
+    "body": {
+      "yearBase": 2566,
+      "year": 2561,
+      "month": 10,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 227,
+    "body": {
+      "yearBase": 2566,
+      "year": 2561,
+      "month": 11,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 228,
+    "body": {
+      "yearBase": 2566,
+      "year": 2561,
+      "month": 12,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 229,
+    "body": {
+      "yearBase": 2566,
+      "year": 2562,
+      "month": 1,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 230,
+    "body": {
+      "yearBase": 2566,
+      "year": 2562,
+      "month": 2,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 231,
+    "body": {
+      "yearBase": 2566,
+      "year": 2562,
+      "month": 3,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 232,
+    "body": {
+      "yearBase": 2566,
+      "year": 2562,
+      "month": 4,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 233,
+    "body": {
+      "yearBase": 2566,
+      "year": 2562,
+      "month": 5,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 234,
+    "body": {
+      "yearBase": 2566,
+      "year": 2562,
+      "month": 6,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 235,
+    "body": {
+      "yearBase": 2566,
+      "year": 2562,
+      "month": 7,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 236,
+    "body": {
+      "yearBase": 2566,
+      "year": 2562,
+      "month": 8,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 237,
+    "body": {
+      "yearBase": 2566,
+      "year": 2562,
+      "month": 9,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 238,
+    "body": {
+      "yearBase": 2566,
+      "year": 2562,
+      "month": 10,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 239,
+    "body": {
+      "yearBase": 2566,
+      "year": 2562,
+      "month": 11,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 240,
+    "body": {
+      "yearBase": 2566,
+      "year": 2562,
+      "month": 12,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 241,
+    "body": {
+      "yearBase": 2566,
+      "year": 2563,
+      "month": 1,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 242,
+    "body": {
+      "yearBase": 2566,
+      "year": 2563,
+      "month": 2,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 243,
+    "body": {
+      "yearBase": 2566,
+      "year": 2563,
+      "month": 3,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 244,
+    "body": {
+      "yearBase": 2566,
+      "year": 2563,
+      "month": 4,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 245,
+    "body": {
+      "yearBase": 2566,
+      "year": 2563,
+      "month": 5,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 246,
+    "body": {
+      "yearBase": 2566,
+      "year": 2563,
+      "month": 6,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 247,
+    "body": {
+      "yearBase": 2566,
+      "year": 2563,
+      "month": 7,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 248,
+    "body": {
+      "yearBase": 2566,
+      "year": 2563,
+      "month": 8,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 249,
+    "body": {
+      "yearBase": 2566,
+      "year": 2563,
+      "month": 9,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 250,
+    "body": {
+      "yearBase": 2566,
+      "year": 2563,
+      "month": 10,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 251,
+    "body": {
+      "yearBase": 2566,
+      "year": 2563,
+      "month": 11,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 252,
+    "body": {
+      "yearBase": 2566,
+      "year": 2563,
+      "month": 12,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 253,
+    "body": {
+      "yearBase": 2566,
+      "year": 2564,
+      "month": 1,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 254,
+    "body": {
+      "yearBase": 2566,
+      "year": 2564,
+      "month": 2,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 255,
+    "body": {
+      "yearBase": 2566,
+      "year": 2564,
+      "month": 3,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 256,
+    "body": {
+      "yearBase": 2566,
+      "year": 2564,
+      "month": 4,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 257,
+    "body": {
+      "yearBase": 2566,
+      "year": 2564,
+      "month": 5,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 258,
+    "body": {
+      "yearBase": 2566,
+      "year": 2564,
+      "month": 6,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 259,
+    "body": {
+      "yearBase": 2566,
+      "year": 2564,
+      "month": 7,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 260,
+    "body": {
+      "yearBase": 2566,
+      "year": 2564,
+      "month": 8,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 261,
+    "body": {
+      "yearBase": 2566,
+      "year": 2564,
+      "month": 9,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 262,
+    "body": {
+      "yearBase": 2566,
+      "year": 2564,
+      "month": 10,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 263,
+    "body": {
+      "yearBase": 2566,
+      "year": 2564,
+      "month": 11,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 264,
+    "body": {
+      "yearBase": 2566,
+      "year": 2564,
+      "month": 12,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 265,
+    "body": {
+      "yearBase": 2566,
+      "year": 2565,
+      "month": 1,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 266,
+    "body": {
+      "yearBase": 2566,
+      "year": 2565,
+      "month": 2,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 267,
+    "body": {
+      "yearBase": 2566,
+      "year": 2565,
+      "month": 3,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 268,
+    "body": {
+      "yearBase": 2566,
+      "year": 2565,
+      "month": 4,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 269,
+    "body": {
+      "yearBase": 2566,
+      "year": 2565,
+      "month": 5,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 270,
+    "body": {
+      "yearBase": 2566,
+      "year": 2565,
+      "month": 6,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 271,
+    "body": {
+      "yearBase": 2566,
+      "year": 2565,
+      "month": 7,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 272,
+    "body": {
+      "yearBase": 2566,
+      "year": 2565,
+      "month": 8,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 273,
+    "body": {
+      "yearBase": 2566,
+      "year": 2565,
+      "month": 9,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 274,
+    "body": {
+      "yearBase": 2566,
+      "year": 2565,
+      "month": 10,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 275,
+    "body": {
+      "yearBase": 2566,
+      "year": 2565,
+      "month": 11,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 276,
+    "body": {
+      "yearBase": 2566,
+      "year": 2565,
+      "month": 12,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 277,
+    "body": {
+      "yearBase": 2566,
+      "year": 2566,
+      "month": 1,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 278,
+    "body": {
+      "yearBase": 2566,
+      "year": 2566,
+      "month": 2,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 279,
+    "body": {
+      "yearBase": 2566,
+      "year": 2566,
+      "month": 3,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 280,
+    "body": {
+      "yearBase": 2566,
+      "year": 2566,
+      "month": 4,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 281,
+    "body": {
+      "yearBase": 2566,
+      "year": 2566,
+      "month": 5,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 282,
+    "body": {
+      "yearBase": 2566,
+      "year": 2566,
+      "month": 6,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 283,
+    "body": {
+      "yearBase": 2566,
+      "year": 2566,
+      "month": 7,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 284,
+    "body": {
+      "yearBase": 2566,
+      "year": 2566,
+      "month": 8,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 285,
+    "body": {
+      "yearBase": 2566,
+      "year": 2566,
+      "month": 9,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 286,
+    "body": {
+      "yearBase": 2566,
+      "year": 2566,
+      "month": 10,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 287,
+    "body": {
+      "yearBase": 2566,
+      "year": 2566,
+      "month": 11,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 288,
+    "body": {
+      "yearBase": 2566,
+      "year": 2566,
+      "month": 12,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 289,
+    "body": {
+      "yearBase": 2566,
+      "year": 2567,
+      "month": 1,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 290,
+    "body": {
+      "yearBase": 2566,
+      "year": 2567,
+      "month": 2,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 291,
+    "body": {
+      "yearBase": 2566,
+      "year": 2567,
+      "month": 3,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 292,
+    "body": {
+      "yearBase": 2566,
+      "year": 2567,
+      "month": 4,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 293,
+    "body": {
+      "yearBase": 2566,
+      "year": 2567,
+      "month": 5,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 294,
+    "body": {
+      "yearBase": 2566,
+      "year": 2567,
+      "month": 6,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 295,
+    "body": {
+      "yearBase": 2566,
+      "year": 2567,
+      "month": 7,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 296,
+    "body": {
+      "yearBase": 2566,
+      "year": 2567,
+      "month": 8,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 297,
+    "body": {
+      "yearBase": 2566,
+      "year": 2567,
+      "month": 9,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 298,
+    "body": {
+      "yearBase": 2566,
+      "year": 2567,
+      "month": 10,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 299,
+    "body": {
+      "yearBase": 2566,
+      "year": 2567,
+      "month": 11,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 300,
+    "body": {
+      "yearBase": 2566,
+      "year": 2567,
+      "month": 12,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 301,
+    "body": {
+      "yearBase": 2566,
+      "year": 2568,
+      "month": 1,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 302,
+    "body": {
+      "yearBase": 2566,
+      "year": 2568,
+      "month": 2,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 303,
+    "body": {
+      "yearBase": 2566,
+      "year": 2568,
+      "month": 3,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 304,
+    "body": {
+      "yearBase": 2566,
+      "year": 2568,
+      "month": 4,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 305,
+    "body": {
+      "yearBase": 2566,
+      "year": 2568,
+      "month": 5,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 306,
+    "body": {
+      "yearBase": 2566,
+      "year": 2568,
+      "month": 6,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 307,
+    "body": {
+      "yearBase": 2566,
+      "year": 2568,
+      "month": 7,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 308,
+    "body": {
+      "yearBase": 2566,
+      "year": 2568,
+      "month": 8,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 309,
+    "body": {
+      "yearBase": 2566,
+      "year": 2568,
+      "month": 9,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 310,
+    "body": {
+      "yearBase": 2566,
+      "year": 2568,
+      "month": 10,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 311,
+    "body": {
+      "yearBase": 2566,
+      "year": 2568,
+      "month": 11,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 312,
+    "body": {
+      "yearBase": 2566,
+      "year": 2568,
+      "month": 12,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 313,
+    "body": {
+      "yearBase": 2566,
+      "year": 2569,
+      "month": 1,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 314,
+    "body": {
+      "yearBase": 2566,
+      "year": 2569,
+      "month": 2,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 315,
+    "body": {
+      "yearBase": 2566,
+      "year": 2569,
+      "month": 3,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 316,
+    "body": {
+      "yearBase": 2566,
+      "year": 2569,
+      "month": 4,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 317,
+    "body": {
+      "yearBase": 2566,
+      "year": 2569,
+      "month": 5,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 318,
+    "body": {
+      "yearBase": 2566,
+      "year": 2569,
+      "month": 6,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 319,
+    "body": {
+      "yearBase": 2566,
+      "year": 2569,
+      "month": 7,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  },
+  {
+    "sequence": 320,
+    "body": {
+      "yearBase": 2566,
+      "year": 2569,
+      "month": 8,
+      "type": "TG",
+      "commodities": [
+        "11320"
+      ]
+    },
+    "row_count": 1
+  }
+]
