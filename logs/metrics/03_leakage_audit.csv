@@ -1,9 +1,9 @@
-check,rows_checked,violations
-fx_partial_24_max_date <= day 24,1839,0
-fx_partial_17_max_date <= day 17,1839,0
-brent_partial_24_max_date <= day 24,1839,0
-brent_partial_17_max_date <= day 17,1839,0
-target_month > month_t,1839,0
-target_available_date > forecast_origin,1839,0
-required_features_are_not_missing,1839,0
-target_formula_matches_source_index,1839,0
+check,violations,passed
+forecast_origin_formula,0,True
+target_month_formula,0,True
+target_already_available_at_origin,0,True
+fx_full_observation_not_before_origin,0,True
+brent_full_observation_not_before_origin,0,True
+fx_cutoff24_not_before_origin,0,True
+brent_cutoff24_not_before_origin,0,True
+required_feature_missing,0,True

@@ -164,7 +164,140 @@
       "sha256": "68b1b12a3e217ed57b60f53cea699e3fad740f714bbaa6d23afb96c8dac94c1e",
       "license": "Public Domain: Citation Requested",
       "citation": "U.S. Energy Information Administration, Crude Oil Prices: Brent - Europe [DCOILBRENTEU], retrieved from FRED, Federal Reserve Bank of St. Louis."
+    },
+    {
+      "source_id": "tpso-release-calendar-20261005T065618Z",
+      "name": "วันเผยแพร่ข่าวดัชนีราคาส่งออก-นำเข้าของไทย",
+      "owner": "สำนักงานนโยบายและยุทธศาสตร์การค้า กระทรวงพาณิชย์",
+      "publisher": "สำนักงานนโยบายและยุทธศาสตร์การค้า กระทรวงพาณิชย์",
+      "url": "https://www.tpso.go.th/category/%E0%B8%82%E0%B9%88%E0%B8%B2%E0%B8%A7%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%8A%E0%B8%B2%E0%B8%AA%E0%B8%B1%E0%B8%A1%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B9%8C?page=<page>",
+      "method": "GET",
+      "request_count": 30,
+      "request_manifest_file": "tpso_news_request_manifest_20261005T065618Z.json",
+      "request_manifest_sha256": "b2746678ca7447d403b0495bdb6e456467527328b860885db763b967b35d21c2",
+      "downloaded_at_utc": "2026-10-05T06:56:24.870667Z",
+      "row_count": 21,
+      "data_range": {
+        "start": "2024-11-01",
+        "end": "2026-07-01"
+      },
+      "file": "tpso_imi_release_calendar_20261005T065618Z.csv",
+      "sha256": "c3735fd63f16bd9dbef6ee6b82e7aa6100e98fca55e7f9d32a9d6b3d1888e78a",
+      "license": "[ยังไม่ยืนยัน]",
+      "citation": "สำนักงานนโยบายและยุทธศาสตร์การค้า กระทรวงพาณิชย์. ข่าวประชาสัมพันธ์ดัชนีราคาส่งออก-นำเข้าของไทย."
+    },
+    {
+      "source_id": "tpso-cpi-monthly-20261005T083615Z",
+      "name": "ดัชนีราคาผู้บริโภคทั่วไประดับประเทศ (CPI)",
+      "owner": "สำนักงานนโยบายและยุทธศาสตร์การค้า กระทรวงพาณิชย์",
+      "publisher": "สำนักงานนโยบายและยุทธศาสตร์การค้า กระทรวงพาณิชย์",
+      "url": "https://index-api.tpso.go.th/OpenApi/Cpig/Month",
+      "method": "POST",
+      "request_body_template": {
+        "yearBase": 2566,
+        "year": "<พ.ศ.>",
+        "month": "<1-12>",
+        "type": "TG",
+        "commodities": [
+          "11320"
+        ]
+      },
+      "request_bodies_file": "tpso_cpi_request_manifest_20261005T083615Z.json",
+      "request_bodies_sha256": "14098dbfcfcb72d3e89aa7f2bf23377268baa57ef8853f99225a2c3d0d32d2a7",
+      "request_count": 320,
+      "failed_request_count": 0,
+      "empty_response_count": 23,
+      "downloaded_at_utc": "2026-10-05T08:40:14.721764Z",
+      "row_count": 297,
+      "data_range": {
+        "start": "2001-12",
+        "end": "2026-08",
+        "calendar_in_file": "Buddhist Era"
+      },
+      "file": "tpso_cpi_monthly_20261005T083615Z.csv",
+      "sha256": "92a43bdf5743d67ea30af648fa39ab3c3de4adb1a2b771c43acee426a5311b35",
+      "license": "Open Data Common [ยังไม่ยืนยันหน้าชุดข้อมูลบน data.go.th ของรายการนี้]",
+      "citation": "สำนักงานนโยบายและยุทธศาสตร์การค้า กระทรวงพาณิชย์. ดัชนีราคาผู้บริโภคทั่วไประดับประเทศ (CPI). index.tpso.go.th."
+    },
+    {
+      "source_id": "tpso-ppi-monthly-20261005T084014Z",
+      "name": "ดัชนีราคาผู้ผลิต (PPI) จำแนกตาม CPA",
+      "owner": "สำนักงานนโยบายและยุทธศาสตร์การค้า กระทรวงพาณิชย์",
+      "publisher": "สำนักงานนโยบายและยุทธศาสตร์การค้า กระทรวงพาณิชย์",
+      "url": "https://index-api.tpso.go.th/OpenApi/Ppi/Month",
+      "method": "POST",
+      "request_body_template": {
+        "yearBase": 2564,
+        "year": "<พ.ศ.>",
+        "month": "<1-12>",
+        "type": "CPA",
+        "commodities": [
+          "3105",
+          "3201"
+        ]
+      },
+      "request_bodies_file": "tpso_ppi_request_manifest_20261005T084014Z.json",
+      "request_bodies_sha256": "018710f6d4fd9f85470c0a9925da3fffbf9847f6789167880d2aac5c86d89e9a",
+      "request_count": 140,
+      "failed_request_count": 0,
+      "empty_response_count": 0,
+      "downloaded_at_utc": "2026-10-05T08:41:20.199707Z",
+      "row_count": 280,
+      "data_range": {
+        "start": "2015-01",
+        "end": "2026-08",
+        "calendar_in_file": "Buddhist Era"
+      },
+      "file": "tpso_ppi_monthly_20261005T084014Z.csv",
+      "sha256": "bac4de3ebde24f84dabf74220ac4e5eb5afe9afa0758b571eb472427f93d8670",
+      "license": "Open Data Common [ยังไม่ยืนยันหน้าชุดข้อมูลบน data.go.th ของรายการนี้]",
+      "citation": "สำนักงานนโยบายและยุทธศาสตร์การค้า กระทรวงพาณิชย์. ดัชนีราคาผู้ผลิต (PPI) จำแนกตาม CPA. index.tpso.go.th."
+    },
+    {
+      "source_id": "wb-pinksheet-monthly-20261005T114130Z",
+      "name": "World Bank Commodity Price Data (The Pink Sheet), monthly prices",
+      "owner": "World Bank",
+      "publisher": "World Bank",
+      "url": "https://thedocs.worldbank.org/en/doc/74e8be41ceb20fa0da750cda2f6b9e4e-0050012026/related/CMO-Historical-Data-Monthly.xlsx",
+      "method": "GET",
+      "downloaded_at_utc": "2026-10-05T11:41:31.348099Z",
+      "row_count": 801,
+      "series_used": [
+        "Urea",
+        "DAP"
+      ],
+      "data_range": {
+        "start": "1960-01-01",
+        "end": "2026-09-01"
+      },
+      "file": "wb_pinksheet_monthly_20261005T114130Z.xlsx",
+      "sha256": "ea1c350827878ea3bbe30e3cda16a13fd3bd5b409b8458940dc94a36b5a33154",
+      "license": "CC BY 4.0",
+      "citation": "World Bank. Commodity Price Data (The Pink Sheet), monthly prices in nominal US dollars.",
+      "note": "ใช้ในรอบที่ 2 (Scope หัวข้อ 24) ซึ่งเป็นผลเชิงสำรวจหลังเปิดผล test"
+    },
+    {
+      "source_id": "fao-ffpi-monthly-20261005T114131Z",
+      "name": "FAO Food Price Index, monthly nominal indices",
+      "owner": "Food and Agriculture Organization of the United Nations (FAO)",
+      "publisher": "Food and Agriculture Organization of the United Nations (FAO)",
+      "url": "https://www.fao.org/media/docs/worldfoodsituationlibraries/wfs-library/food_price_indices_data.csv",
+      "method": "GET",
+      "downloaded_at_utc": "2026-10-05T11:41:32.352335Z",
+      "row_count": 441,
+      "series_used": [
+        "Dairy"
+      ],
+      "data_range": {
+        "start": "1990-01-01",
+        "end": "2026-09-01"
+      },
+      "file": "fao_ffpi_monthly_20261005T114131Z.csv",
+      "sha256": "1e7b4cab727d65ad85ac056a1f4ec21285c3294aebdacb08f01e10be490a4098",
+      "license": "[ยังไม่ยืนยัน] ตาม FAO Terms https://www.fao.org/contact-us/terms/en/",
+      "citation": "FAO. FAO Food Price Index, Dairy Price Index (2014-2016 = 100).",
+      "note": "ใช้ในรอบที่ 2 (Scope หัวข้อ 24) ซึ่งเป็นผลเชิงสำรวจหลังเปิดผล test"
     }
   ],
-  "last_updated_at_utc": "2026-10-05T05:53:24.936328Z"
+  "last_updated_at_utc": "2026-10-05T11:41:32.352335Z"
 }

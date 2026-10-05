@@ -1,2 +1,2 @@
-file,rows,columns,sha256
-modeling_table.csv,1839,36,027ffd0848d661e74d988f7131bf40cdcbda692ff73d03e5ba2047539720345e
+file,rows,sha256,forecast_origin_rule,primary_horizon,diagnostic_horizon,rq4_horizons,release_calendar_records
+data/processed/modeling_table.csv,4560,c97d79ab0c1afade35d0f1bcf999d51b4c0b58c774048c58fc4ba6257640af05,day 15 of t+2,3,2,4|5|6,21
