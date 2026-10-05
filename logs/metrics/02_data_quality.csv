@@ -1,0 +1,4 @@
+dataset,rows,start,end,missing_value,duplicate_key
+IMI,25752,2000-01-01,2026-08-01,0,0
+DEXTHUS,6975,2000-01-03,2026-09-25,272,0
+DCOILBRENTEU,6977,2000-01-03,2026-09-29,501,0

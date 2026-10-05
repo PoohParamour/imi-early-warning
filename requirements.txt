@@ -1,0 +1,5 @@
+jupyterlab==4.6.4
+ipykernel==7.4.0
+pandas==3.0.6
+requests==2.34.2
+matplotlib==3.10.8
