@@ -12,4 +12,5 @@ data/interim/*
 data/processed/*
 !data/processed/.gitkeep
 
-review/
+# Local review evidence and rerun artifacts.
+reports/review/
