@@ -12,3 +12,4 @@ data/interim/*
 data/processed/*
 !data/processed/.gitkeep
 
+review/
