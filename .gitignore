@@ -14,7 +14,6 @@ data/processed/*
 reports/review/
 scripts/review_*.py
 scripts/review_*.R
-reports/study_guide.md
 reports/report_draft.md
 reports/presentation_outline.md
 PROJECT_SCOPE.md
