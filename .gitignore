@@ -16,5 +16,11 @@ scripts/review_*.py
 scripts/review_*.R
 reports/report_draft.md
 reports/presentation_outline.md
+reports/data_qa.md
+reports/models_qa.md
+reports/qa_prep.md
+reports/study_guide.md
 PROJECT_SCOPE.md
 logs/process_log.md
+dashboard.md
+figures.md
